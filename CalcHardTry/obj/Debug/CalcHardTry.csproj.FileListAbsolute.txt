@@ -1,0 +1,10 @@
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\bin\Debug\CalcHardTry.exe.config
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\bin\Debug\CalcHardTry.exe
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\bin\Debug\CalcHardTry.pdb
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.csprojAssemblyReference.cache
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.Form1.resources
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.Properties.Resources.resources
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.csproj.GenerateResource.cache
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.csproj.CoreCompileInputs.cache
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.exe
+C:\Users\anima\source\repos\CalcHardTry\CalcHardTry\obj\Debug\CalcHardTry.pdb
